@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions">
+<file original="[Content_Types].xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/styles.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="word/document.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="en">   <g id="1">School Year 2012-13  </g>   </source>
+<target xml:lang="fr">   <g id="1">School Year 2012-13  </g>   </target>
+</trans-unit>
+<trans-unit id="tu2" xml:space="preserve">
+<source xml:lang="en">    <g id="1">Subject:      Teacher:</g>  </source>
+<target xml:lang="fr">    <g id="1">Subject:      Teacher:</g>  </target>
+</trans-unit>
+<trans-unit id="tu3" xml:space="preserve">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu4" xml:space="preserve">
+<source xml:lang="en"><g id="1">Unit </g><x id="2"/>  <g id="3"> week(s)  </g></source>
+<target xml:lang="fr"><g id="1">Unit </g><x id="2"/>  <g id="3"> week(s)  </g></target>
+</trans-unit>
+<trans-unit id="tu5" xml:space="preserve">
+<source xml:lang="en"><g id="1">CONTENT STANDARDS #</g><x id="2"/><g id="3">(for this unit)</g></source>
+<target xml:lang="fr"><g id="1">CONTENT STANDARDS #</g><x id="2"/><g id="3">(for this unit)</g></target>
+</trans-unit>
+<trans-unit id="tu6" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">ENDURING UNDERSTANDING (Big Idea)</g></source>
+<target xml:lang="fr"><x id="1"/><g id="2">ENDURING UNDERSTANDING (Big Idea)</g></target>
+</trans-unit>
+<trans-unit id="tu7" xml:space="preserve">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu8" xml:space="preserve">
+<source xml:lang="en"><g id="1">ESSENTIAL QUESTIONS</g></source>
+<target xml:lang="fr"><g id="1">ESSENTIAL QUESTIONS</g></target>
+</trans-unit>
+<trans-unit id="tu9" xml:space="preserve">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu10" xml:space="preserve">
+<source xml:lang="en"><g id="1">CULMINATING PROJECT</g></source>
+<target xml:lang="fr"><g id="1">CULMINATING PROJECT</g></target>
+</trans-unit>
+<trans-unit id="tu11" xml:space="preserve">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu12" xml:space="preserve">
+<source xml:lang="en"><g id="1">MATERIALS</g></source>
+<target xml:lang="fr"><g id="1">MATERIALS</g></target>
+</trans-unit>
+<trans-unit id="tu13" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">    </g></source>
+<target xml:lang="fr"><x id="1"/><g id="2">    </g></target>
+</trans-unit>
+<trans-unit id="tu14" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">    </g></source>
+<target xml:lang="fr"><x id="1"/><g id="2">    </g></target>
+</trans-unit>
+<trans-unit id="tu15" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">  </g></source>
+<target xml:lang="fr"><x id="1"/><g id="2">  </g></target>
+</trans-unit>
+<trans-unit id="tu16" xml:space="preserve">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu17" xml:space="preserve">
+<source xml:lang="en"><g id="1">CONNECT ACTIVITIES</g></source>
+<target xml:lang="fr"><g id="1">CONNECT ACTIVITIES</g></target>
+</trans-unit>
+<trans-unit id="tu18" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">    </g></source>
+<target xml:lang="fr"><x id="1"/><g id="2">    </g></target>
+</trans-unit>
+<trans-unit id="tu19" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">    </g></source>
+<target xml:lang="fr"><x id="1"/><g id="2">    </g></target>
+</trans-unit>
+<trans-unit id="tu20" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">  </g></source>
+<target xml:lang="fr"><x id="1"/><g id="2">  </g></target>
+</trans-unit>
+<trans-unit id="tu21" xml:space="preserve">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu22" xml:space="preserve">
+<source xml:lang="en"><g id="1">LESSON OVERVIEWS</g></source>
+<target xml:lang="fr"><g id="1">LESSON OVERVIEWS</g></target>
+</trans-unit>
+<trans-unit id="tu23" xml:space="preserve">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu24" xml:space="preserve">
+<source xml:lang="en"><g id="1">  </g></source>
+<target xml:lang="fr"><g id="1">  </g></target>
+</trans-unit>
+<trans-unit id="tu25" xml:space="preserve">
+<source xml:lang="en"><g id="1">  </g></source>
+<target xml:lang="fr"><g id="1">  </g></target>
+</trans-unit>
+<trans-unit id="tu26" xml:space="preserve">
+<source xml:lang="en"><g id="1">  </g></source>
+<target xml:lang="fr"><g id="1">  </g></target>
+</trans-unit>
+<trans-unit id="tu27" xml:space="preserve">
+<source xml:lang="en"><g id="1">  </g></source>
+<target xml:lang="fr"><g id="1">  </g></target>
+</trans-unit>
+<trans-unit id="tu28" xml:space="preserve">
+<source xml:lang="en"><g id="1">  </g></source>
+<target xml:lang="fr"><g id="1">  </g></target>
+</trans-unit>
+<trans-unit id="tu29" xml:space="preserve">
+<source xml:lang="en"><g id="1">   </g></source>
+<target xml:lang="fr"><g id="1">   </g></target>
+</trans-unit>
+<trans-unit id="tu30" xml:space="preserve">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu31" xml:space="preserve">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+<trans-unit id="tu32" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">ASSESSMENTS/EVALUATIONS</g></source>
+<target xml:lang="fr"><x id="1"/><g id="2">ASSESSMENTS/EVALUATIONS</g></target>
+</trans-unit>
+<trans-unit id="tu33" xml:space="preserve">
+<source xml:lang="en"><x id="1"/><g id="2">  </g></source>
+<target xml:lang="fr"><x id="1"/><g id="2">  </g></target>
+</trans-unit>
+<trans-unit id="tu34" xml:space="preserve">
+<source xml:lang="en"><x id="1"/></source>
+<target xml:lang="fr"><x id="1"/></target>
+</trans-unit>
+<trans-unit id="tu35" xml:space="preserve">
+<source xml:lang="en"></source>
+<target xml:lang="fr"></target>
+</trans-unit>
+</body>
+</file>
+<file original="word/settings.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+</body>
+</file>
+<file original="docProps/core.xml" source-language="en" target-language="fr" datatype="x-undefined" okp:inputEncoding="UTF-8">
+<body>
+<trans-unit id="tu1" xml:space="preserve">
+<source xml:lang="en">Kim Townsel</source>
+<target xml:lang="fr">Kim Townsel</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

@@ -1,0 +1,25 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Rainbow ReadMe</title>
+</head>
+<body>
+<h1>Release Notes - okapi-apps 0.17, Jul-09-2012</h1>
+<ul>
+	<li><a href="#overview">Overview</a></li>
+	<li><a href="#SetupWindows">Windows Platform</a></li>
+	<li><a href="#SetupLinux">Linux Platforms</a></li>
+	<li><a href="#SetupMac"><![CDATA[Macintosh <script>alert("Hello");</script> Platform]]></a></li>
+	<li><a href="#Support">Support</a></li>
+</ul>
+<hr>
+<h2><a name="overview"></a>Overview</h2>
+<p>The <b>okapi-apps</b> distribution contains:</p>
+<p>For a list of changes since the previous release, 
+please see the <a href="changes.html">Changes Log document</a>.</p>
+
+<p>If you have questions, suggestions or bug to report, you can do this 
+different ways:</p>
+<p>&nbsp;</p>
+</body>
+</html>
