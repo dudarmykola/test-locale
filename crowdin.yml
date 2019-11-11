@@ -1,0 +1,5 @@
+files:
+  - source: /*.*
+    ignore:
+      - /README.md
+    translation: /translate/%two_letters_code%/%original_file_name%
