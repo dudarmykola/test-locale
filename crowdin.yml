@@ -1,1 +1,5 @@
-files: []
+files:
+  - source: /*.md
+    ignore:
+      - README.md
+    translation: /%language%/%original_file_name%
