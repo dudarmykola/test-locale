@@ -1,1 +1,3 @@
-files: []
+files:
+  - source: /test_android_quotes.xml
+    translation: /folder/%two_letters_code%/%original_file_name%
