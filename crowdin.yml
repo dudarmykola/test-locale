@@ -1,3 +1,6 @@
 files:
-  - source: /test_android_quotes.xml
-    translation: /folder/%two_letters_code%/%original_file_name%
+  - source: /*.xml
+    ignore:
+      - /xml2.xml
+      - xmlfile.xml
+    translation: /folder/android/%locale%/%original_file_name%
