@@ -1,12 +1,1 @@
-files:
-  - source: /*.md
-    ignore:
-      - README.md
-    translation: /%language%/%original_file_name%
-  - source: /*.csv
-    translation: /%locale%/%original_file_name%
-    multilingual_spreadsheet: 1
-    scheme: 'identifier,source_phrase,translation'
-  - source: /*.csv
-    translation: /folder/%language%/%original_file_name%
-    scheme: 'identifier,source_phrase,context,translation'
+files: []
