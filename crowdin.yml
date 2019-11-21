@@ -4,3 +4,5 @@ files:
       - /xml2.xml
       - xmlfile.xml
     translation: /folder/android/%locale%/%original_file_name%
+    translatable_elements:
+      - /folder
