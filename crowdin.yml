@@ -5,6 +5,7 @@ files:
     translation: /%language%/%original_file_name%
   - source: /*.csv
     translation: /%locale%/%original_file_name%
+    first_line_contains_header: 1
     scheme: 'identifier,source_phrase,translation'
   - source: /*.csv
     translation: /folder/%language%/%original_file_name%
