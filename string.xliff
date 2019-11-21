@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+	<file original="Temp3Java.properties" source-language="en-US"  target-language="uk-UA" datatype="TEXT">
+		<header></header>
+		<body>
+			<trans-unit id="a401328d-8154-40fb-b8ff-2dab4caf4ad8">
+				<source>String with target & target</source>
+				<target>First String Translation</target>
+				<note>See <a href="#"> example </a> here: <script>alert('hi');</script> <img src="http://otaras.crowdin.net/images/application-icons/chat.png"  /></note>
+			</trans-unit>
+			<trans-unit id="d5958fc5-2022-4d08-b23a-b49607c806e5">
+				<source>String with empty target</source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="e8830cbd-a7cb-4e0c-8c15-7500be24d839">
+				<source>String without target new</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
