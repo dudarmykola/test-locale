@@ -6,4 +6,3 @@ files:
       - xmlfile.xml
     translation: /folder/android/%locale%/%original_file_name%
     translate_attributes: 0
-    content_segmentation: 0
