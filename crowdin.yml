@@ -5,5 +5,5 @@ files:
       - /xml2.xml
       - xmlfile.xml
     translation: /folder/android/%locale%/%original_file_name%
-    translate_content: 0
-    translate_attributes: 0
+    translatable_elements:
+      - /path
