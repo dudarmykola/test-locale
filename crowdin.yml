@@ -1,6 +1,8 @@
 files:
   - source: /*.xml
+    ignore_settings: 1
     ignore:
       - /xml2.xml
       - xmlfile.xml
+      - zaluoa.js
     translation: /folder/android/%locale%/%original_file_name%
