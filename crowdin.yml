@@ -1,6 +1,5 @@
 files:
   - source: /*.xml
-    ignore_settings: 1
     ignore:
       - /xml2.xml
       - xmlfile.xml
