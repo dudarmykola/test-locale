@@ -1,6 +1,5 @@
 files:
   - source: /*.csv
-    translation: /translate_folder/%two_letters_code%/%original_file_name%
-    multilingual_spreadsheet: 1
+    translation: /local/%two_letters_code%/%original_file_name%
     first_line_contains_header: 1
     scheme: 'identifier,source_phrase,translation'
